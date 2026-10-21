@@ -2,6 +2,8 @@
 
 A local-first Cyber Defense Intelligence Platform for practicing SOC workflows against realistic, fully synthetic telemetry.
 
+Live demo: <https://sentinelx-two.vercel.app>
+
 SentinelX is a Next.js application that runs entirely in the browser. It ships with a fictional company, Meridian Logistics, and a seven-day dataset of events, alerts, incidents, assets, indicators, detection rules, and response playbooks. Every number in the interface is derived from that local dataset. Nothing is connected to a real network, and no offensive tooling is included.
 
 ## Highlights
